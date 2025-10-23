@@ -47,7 +47,7 @@ class ViewController: UIViewController {
                 normalizedAngle += 2 * Double.pi
             }
             
-            var sectorIndex = Int((normalizedAngle + self.sectorAngle / 2) / self.sectorAngle) % self.sectors.count
+            let sectorIndex = Int((normalizedAngle + self.sectorAngle / 2) / self.sectorAngle) % self.sectors.count
             
             self.rouletteWheel.layer.transform = CATransform3DMakeRotation(CGFloat(self.currentAngle), 0, 0, 1)
             

@@ -1,0 +1,21 @@
+{
+  "" : {
+    "dependencies" : "/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5-etawpkzjvixyhoczszcltzrvrxxy/Index.noindex/Build/Intermediates.noindex/Assignment5.build/Debug-iphonesimulator/Assignment5.build/Objects-normal/arm64/Assignment5-master.d",
+    "diagnostics" : "/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5-etawpkzjvixyhoczszcltzrvrxxy/Index.noindex/Build/Intermediates.noindex/Assignment5.build/Debug-iphonesimulator/Assignment5.build/Objects-normal/arm64/Assignment5-master.dia",
+    "emit-module-dependencies" : "/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5-etawpkzjvixyhoczszcltzrvrxxy/Index.noindex/Build/Intermediates.noindex/Assignment5.build/Debug-iphonesimulator/Assignment5.build/Objects-normal/arm64/Assignment5-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5-etawpkzjvixyhoczszcltzrvrxxy/Index.noindex/Build/Intermediates.noindex/Assignment5.build/Debug-iphonesimulator/Assignment5.build/Objects-normal/arm64/Assignment5-master-emit-module.dia",
+    "swift-dependencies" : "/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5-etawpkzjvixyhoczszcltzrvrxxy/Index.noindex/Build/Intermediates.noindex/Assignment5.build/Debug-iphonesimulator/Assignment5.build/Objects-normal/arm64/Assignment5-master.swiftdeps"
+  },
+  "/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5-etawpkzjvixyhoczszcltzrvrxxy/Index.noindex/Build/Intermediates.noindex/Assignment5.build/Debug-iphonesimulator/Assignment5.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5/AppDelegate.swift" : {
+
+  },
+  "/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5/SceneDelegate.swift" : {
+
+  },
+  "/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5/ViewController.swift" : {
+
+  }
+}

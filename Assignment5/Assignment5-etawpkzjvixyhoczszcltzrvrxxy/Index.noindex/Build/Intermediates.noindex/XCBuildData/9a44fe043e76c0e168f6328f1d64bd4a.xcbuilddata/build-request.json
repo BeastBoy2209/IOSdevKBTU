@@ -1,0 +1,60 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "6800fcd9a3c093bad1bf91d63a348c915dd93bf93585957636e69cf8fdd6713a"
+    }
+  ],
+  "containerPath" : "/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator18.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5-etawpkzjvixyhoczszcltzrvrxxy/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5-etawpkzjvixyhoczszcltzrvrxxy/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/beasty/Documents/IOSdevKBTU/Assignment5",
+      "indexDataStoreFolderPath" : "/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5-etawpkzjvixyhoczszcltzrvrxxy/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5-etawpkzjvixyhoczszcltzrvrxxy/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5-etawpkzjvixyhoczszcltzrvrxxy/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5-etawpkzjvixyhoczszcltzrvrxxy/Build/Products",
+      "pchPath" : "/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5-etawpkzjvixyhoczszcltzrvrxxy/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

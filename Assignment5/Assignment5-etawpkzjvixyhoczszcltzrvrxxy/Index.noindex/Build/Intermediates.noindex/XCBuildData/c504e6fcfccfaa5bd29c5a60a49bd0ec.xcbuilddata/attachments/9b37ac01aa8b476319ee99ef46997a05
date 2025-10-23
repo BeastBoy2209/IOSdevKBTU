@@ -1,0 +1,12 @@
+{
+  "" : {
+    "dependencies" : "/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5-etawpkzjvixyhoczszcltzrvrxxy/Index.noindex/Build/Intermediates.noindex/Assignment5.build/Debug-maccatalyst/Assignment5Tests.build/Objects-normal/arm64/Assignment5Tests-master.d",
+    "diagnostics" : "/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5-etawpkzjvixyhoczszcltzrvrxxy/Index.noindex/Build/Intermediates.noindex/Assignment5.build/Debug-maccatalyst/Assignment5Tests.build/Objects-normal/arm64/Assignment5Tests-master.dia",
+    "emit-module-dependencies" : "/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5-etawpkzjvixyhoczszcltzrvrxxy/Index.noindex/Build/Intermediates.noindex/Assignment5.build/Debug-maccatalyst/Assignment5Tests.build/Objects-normal/arm64/Assignment5Tests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5-etawpkzjvixyhoczszcltzrvrxxy/Index.noindex/Build/Intermediates.noindex/Assignment5.build/Debug-maccatalyst/Assignment5Tests.build/Objects-normal/arm64/Assignment5Tests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5-etawpkzjvixyhoczszcltzrvrxxy/Index.noindex/Build/Intermediates.noindex/Assignment5.build/Debug-maccatalyst/Assignment5Tests.build/Objects-normal/arm64/Assignment5Tests-master.swiftdeps"
+  },
+  "/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5Tests/Assignment5Tests.swift" : {
+
+  }
+}

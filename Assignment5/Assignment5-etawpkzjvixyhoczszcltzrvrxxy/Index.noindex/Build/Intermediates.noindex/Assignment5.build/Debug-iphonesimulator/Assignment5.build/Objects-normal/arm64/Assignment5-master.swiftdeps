@@ -1,0 +1,10 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "0a42b1237fdec38881f97032b2158c70f79119291faf92a5e08726020095bf8e"
+build_start_time: [1761254267, 611656000]
+build_end_time: [1761254267, 806294000]
+inputs:
+  ? "/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5-etawpkzjvixyhoczszcltzrvrxxy/Index.noindex/Build/Intermediates.noindex/Assignment5.build/Debug-iphonesimulator/Assignment5.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1761254264, 332840615]
+  "/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5/AppDelegate.swift": [1760549521, 90431452]
+  "/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5/SceneDelegate.swift": [1760548790, 892501116]
+  "/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5/ViewController.swift": [1761253070, 106998843]

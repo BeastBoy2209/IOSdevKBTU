@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'Assignment5UITests' in project 'Assignment5' (no dependencies)
+Target 'Assignment5UITests' in project 'Assignment5'
+➜ Explicit dependency on target 'Assignment5' in project 'Assignment5'
+Target 'Assignment5UITests' in project 'Assignment5'
+➜ Explicit dependency on target 'Assignment5' in project 'Assignment5'
+Target 'Assignment5Tests' in project 'Assignment5' (no dependencies)
+Target 'Assignment5Tests' in project 'Assignment5'
+➜ Explicit dependency on target 'Assignment5' in project 'Assignment5'
+Target 'Assignment5Tests' in project 'Assignment5'
+➜ Explicit dependency on target 'Assignment5' in project 'Assignment5'
+Target 'Assignment5' in project 'Assignment5' (no dependencies)
+Target 'Assignment5' in project 'Assignment5' (no dependencies)

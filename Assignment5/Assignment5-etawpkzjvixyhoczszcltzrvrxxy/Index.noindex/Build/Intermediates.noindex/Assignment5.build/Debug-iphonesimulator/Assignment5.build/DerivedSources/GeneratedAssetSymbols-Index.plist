@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array/>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameCasinoBackground</string>
+			<key>relativePath</key>
+			<string>./CasinoBackground.imageset</string>
+			<key>swiftSymbol</key>
+			<string>casinoBackground</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameLoadingScreen</string>
+			<key>relativePath</key>
+			<string>./LoadingScreen.imageset</string>
+			<key>swiftSymbol</key>
+			<string>loadingScreen</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameRouletteWheel</string>
+			<key>relativePath</key>
+			<string>./RouletteWheel.imageset</string>
+			<key>swiftSymbol</key>
+			<string>rouletteWheel</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/beasty/Documents/IOSdevKBTU/Assignment5/Assignment5/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameGreenBackground</string>
+			<key>relativePath</key>
+			<string>./greenBackground.imageset</string>
+			<key>swiftSymbol</key>
+			<string>greenBackground</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>
