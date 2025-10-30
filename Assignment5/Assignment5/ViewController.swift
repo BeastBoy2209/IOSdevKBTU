@@ -25,13 +25,13 @@ class ViewController: UIViewController {
     lazy var sectorAngle = 2 * Double.pi / Double(sectors.count)
     var balance: Int = 1000 // фикс балик
     
-    // MARK: - Lifecycle
     override func viewDidLoad() {
         super.viewDidLoad()
         rouletteWheel.contentMode = .scaleAspectFit
         resultLabel.text = ""
         updateBalanceLabel()
     }
+    
     
     func updateBalanceLabel() {
         balanceLabel.text = "Balance: \(balance)"
@@ -115,9 +115,9 @@ class ViewController: UIViewController {
         
         if win > 0 {
             balance += win
-            resultLabel.text = "Выпало \(result)! Вы выиграли \(win) 🎉"
+            resultLabel.text = "Выпало \(result)! Вы выиграли \(win)"
         } else {
-            resultLabel.text = "Выпало \(result)! Проигрыш 😞"
+            resultLabel.text = "Выпало \(result)! Проигрыш"
         }
         
         updateBalanceLabel()
